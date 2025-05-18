@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "ThreeRuleCounterExample.exe"
+			"path" : "test_35Principles.exe"
 		},
 		{
-			"path" : "ThreeRuleCounterExample.pdb"
+			"path" : "test_35Principles.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 20,
+				"line" : 18,
 				"parent" : 0
 			}
 		]
@@ -52,11 +52,15 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2,
+				3,
+				4
 			]
 		}
 	],
-	"id" : "ThreeRuleCounterExample::@6890427a1f51a3e7e1df",
+	"id" : "test_35Principles::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +80,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "ThreeRuleCounterExample",
-	"nameOnDisk" : "ThreeRuleCounterExample.exe",
+	"name" : "test_35Principles",
+	"nameOnDisk" : "test_35Principles.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -89,7 +93,11 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -98,7 +106,31 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "ThreeRuleCounterExample.cpp",
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ZeroRuleClass.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ThreeRuleClass.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "FiveRuleClass.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "D:/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/copy/main.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

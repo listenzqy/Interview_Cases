@@ -73,6 +73,12 @@ build CMakeFiles/test_35Principles.dir/FiveRuleClass.cpp.obj: CXX_COMPILER__test
   OBJECT_DIR = CMakeFiles\test_35Principles.dir
   OBJECT_FILE_DIR = CMakeFiles\test_35Principles.dir
 
+build CMakeFiles/test_35Principles.dir/D_/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/copy/main.cpp.obj: CXX_COMPILER__test_35Principles_unscanned_Debug D$:/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/copy/main.cpp || cmake_object_order_depends_target_test_35Principles
+  DEP_FILE = CMakeFiles\test_35Principles.dir\D_\Clion_workspace\Interview_Cases\RAII\Interview_Cases\RAII\copy\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\test_35Principles.dir
+  OBJECT_FILE_DIR = CMakeFiles\test_35Principles.dir\D_\Clion_workspace\Interview_Cases\RAII\Interview_Cases\RAII\copy
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target test_35Principles
@@ -81,7 +87,7 @@ build CMakeFiles/test_35Principles.dir/FiveRuleClass.cpp.obj: CXX_COMPILER__test
 #############################################
 # Link the executable test_35Principles.exe
 
-build test_35Principles.exe: CXX_EXECUTABLE_LINKER__test_35Principles_Debug CMakeFiles/test_35Principles.dir/main.cpp.obj CMakeFiles/test_35Principles.dir/ZeroRuleClass.cpp.obj CMakeFiles/test_35Principles.dir/ThreeRuleClass.cpp.obj CMakeFiles/test_35Principles.dir/FiveRuleClass.cpp.obj
+build test_35Principles.exe: CXX_EXECUTABLE_LINKER__test_35Principles_Debug CMakeFiles/test_35Principles.dir/main.cpp.obj CMakeFiles/test_35Principles.dir/ZeroRuleClass.cpp.obj CMakeFiles/test_35Principles.dir/ThreeRuleClass.cpp.obj CMakeFiles/test_35Principles.dir/FiveRuleClass.cpp.obj CMakeFiles/test_35Principles.dir/D_/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/copy/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\test_35Principles.dir

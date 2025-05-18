@@ -11,6 +11,7 @@ set(SOURCES
     ZeroRuleClass.cpp
     ThreeRuleClass.cpp
     FiveRuleClass.cpp
+        ../copy/main.cpp
 )
 
 # 添加可执行文件
