@@ -1,0 +1,4 @@
+D:/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/test_35Principles/cmake-build-debug/CMakeFiles/test_35Principles.dir
+D:/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/test_35Principles/cmake-build-debug/CMakeFiles/ThreeRuleCounterExample.dir
+D:/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/test_35Principles/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/test_35Principles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

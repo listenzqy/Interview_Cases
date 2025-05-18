@@ -1,0 +1,6 @@
+# ninja log v6
+8	287	7692653010520184	CMakeFiles/test_35Principles.dir/ThreeRuleClass.cpp.obj	bf7bbae2f5d1ff9b
+11	288	7692653010554423	CMakeFiles/test_35Principles.dir/FiveRuleClass.cpp.obj	375924137b67a0a6
+4	332	7692653010484261	CMakeFiles/test_35Principles.dir/ZeroRuleClass.cpp.obj	9bb71abd3ad78c10
+1	340	7692653010453991	CMakeFiles/test_35Principles.dir/main.cpp.obj	c31265fbd4cd6ea
+340	471	7692653013841983	test_35Principles.exe	1242e9e9f558adb7

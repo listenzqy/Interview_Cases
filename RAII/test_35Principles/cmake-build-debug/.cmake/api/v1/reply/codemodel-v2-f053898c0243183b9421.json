@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPP_Rules_Test",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreeRuleCounterExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreeRuleCounterExample-Debug-1bd73628a401b4065782.json",
+					"name" : "ThreeRuleCounterExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_35Principles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_35Principles-Debug-a3ec884d4f8ead834bb9.json",
+					"name" : "test_35Principles",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/test_35Principles/cmake-build-debug",
+		"source" : "D:/Clion_workspace/Interview_Cases/RAII/Interview_Cases/RAII/test_35Principles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
